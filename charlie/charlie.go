@@ -1,3 +1,3 @@
 package charlie
 
-const Version = "v1.0.0"
+const Version = "v1.0.1"
