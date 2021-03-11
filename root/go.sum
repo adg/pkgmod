@@ -1,0 +1,8 @@
+github.com/adg/pkgmod/alpha v0.0.0-20210311210450-ba525c2ecc4a h1:l0yfx8T6+kkqgvMUFGIpZUe8+aWJsW+ezFLDpOB12zE=
+github.com/adg/pkgmod/alpha v0.0.0-20210311210450-ba525c2ecc4a/go.mod h1:7OdqUaTLjRNo1ZBwlkBcBblBAIw2+OO7LUs9qHFI0fs=
+github.com/adg/pkgmod/bravo v0.0.0-20210311210450-ba525c2ecc4a h1:tZVvbAwMtxGrG8d3u0rH0Sp1U9zigeNK+EKet3VuQ7g=
+github.com/adg/pkgmod/bravo v0.0.0-20210311210450-ba525c2ecc4a/go.mod h1:wmvTap6FJUqsdLORPL9ArAfMiOHwzdv8a1Lt2Q6wWJM=
+github.com/adg/pkgmod/charlie v1.0.0 h1:5VftBc2VGUGfk8lLkbQFSuzasnC/mFTeCIU13KduwcE=
+github.com/adg/pkgmod/charlie v1.0.0/go.mod h1:I/kcgt4sHcNT81xCUs4bxb58GdYordHbP4ccRlHUCug=
+github.com/adg/pkgmod/charlie v1.0.1 h1:gLEop8blBm4oBRinkMFQOY0PxYDR6eotcJ8+iQf8L7I=
+github.com/adg/pkgmod/charlie v1.0.1/go.mod h1:I/kcgt4sHcNT81xCUs4bxb58GdYordHbP4ccRlHUCug=
